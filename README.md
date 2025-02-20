@@ -1,16 +1,48 @@
-## Hi there 👋
+# I am Renat 👋
 
-<!--
-**renatbabacaev/renatbabacaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+![Younger me](images/renat.jpeg "Younger me")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Doing studies at Moldova State University, Informatics, year 2.
+
+I like to work with computers.
+
+## Skills
+
+Programming languages I know:
+
+- C#
+- Java
+- JavaScript
+- PHP
+- C/C++
+- Python
+
+Frameworks and tools I worked or work with:
+
+- [Git](https://github.com/renatbabacaev)
+- Java
+  - Spring Boot
+  - Maven
+- C#
+  - Godot Engine (Mono)
+  - Visual Studio
+    - Win Forms
+- JavaScript
+  - React
+  - Vite
+  - NodeJS
+- Linux
+  - Including WSL
+
+Stuff I want to learn:
+
+- Other popular JavaScript frameworks (Vue, Angular, Next)
+- Rust
+- Embedded programming
+
+## Contact
+
+- [Email](mailto:renat.babacaev@gmail.com)
+- [Instagram](https://www.instagram.com/renatbabacaev/)
