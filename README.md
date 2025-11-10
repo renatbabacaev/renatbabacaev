@@ -2,45 +2,42 @@
 
 ## About Me
 
-![Younger me](images/renat.jpeg "Younger me")
+![Me in MSQRD filter](images/renat.jpeg "I will come up with a better profile picture")
 
-Doing studies at Moldova State University, Informatics, year 2.
+Doing studies at Moldova State University, Informatics, year 3.
 
-I like to work with computers.
+I like computers. Programming is art.
 
 ## Skills
 
-Programming languages I know:
+### Programming languages I know:
 
 - C#
+  - Godot Engine (Mono)
+  - Used to write library for automating the generation of new users for Active User Directory
+- C
+  - Used for solving competitive programming problems at [Codeforces](https://codeforces.com/profile/staticV0id) (the link leads to my profile)
+- C++
 - Java
 - JavaScript
 - PHP
-- C/C++
 - Python
+- Powershell
+  - Used for automating Active User Directory management, such as generating and adding lots of new users
+  - Then email each user with their login data
+- Bash 
 
-Frameworks and tools I worked or work with:
+The programming languages I haven't desribed means that I know them, but haven't used with any frameworks (yet...)
 
-- [Git](https://github.com/renatbabacaev)
-- Java
-  - Spring Boot
-  - Maven
-- C#
-  - Godot Engine (Mono)
-  - Visual Studio
-    - Win Forms
-- JavaScript
-  - React
-  - Vite
-  - NodeJS
+### Tools I worked or work with:
+
+- [Git](https://github.com/renatbabacaev) (current page)
+- Docker
 - Linux
-  - Including WSL
 
-Stuff I want to learn:
+### Stuff I want to learn:
 
-- Other popular JavaScript frameworks (Vue, Angular, Next)
-- Rust
-- Embedded programming
+- Git usage in a team environment
 
 ## Contact
 
