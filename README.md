@@ -4,9 +4,7 @@
 
 ![Me in MSQRD filter](images/renat.jpeg "I will come up with a better profile picture")
 
-Doing studies at Moldova State University, Informatics, year 3.
-
-I like computers. Programming is art.
+Art in programming.
 
 ## Skills
 
@@ -27,17 +25,12 @@ I like computers. Programming is art.
   - Then email each user with their login data
 - Bash 
 
-The programming languages I haven't desribed means that I know them, but haven't used with any frameworks (yet...)
+The programming languages I haven't desribed means that I know them, but haven't used within any frameworks.
 
 ### Tools I worked or work with:
 
-- [Git](https://github.com/renatbabacaev) (current page)
 - Docker
 - Linux
-
-### Stuff I want to learn:
-
-- Git usage in a team environment
 
 ## Contact
 
